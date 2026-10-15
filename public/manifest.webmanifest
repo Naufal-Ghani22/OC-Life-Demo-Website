@@ -1,0 +1,9 @@
+{
+  "name": "OC-Life Demo Simulasi",
+  "short_name": "OC-Life Demo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1510",
+  "theme_color": "#0b1510",
+  "icons": [{ "src": "/kv/logo-icon.webp", "sizes": "512x512", "type": "image/webp" }]
+}
