@@ -72,7 +72,7 @@ npm run build     # hasil di dist/ (SPA hash-route, siap deploy)
 
 ```
 src/
-  screens/   layar per peran (Tenant, Petugas, Operator, Koperasi, Manager, Ledger, Finish)
+  screens/   layar per peran (Home, Tenant, Petugas, Operator, Koperasi, Manager, Ledger, Finish)
   Shell.tsx  sidebar, navigasi peran, panel tur
   store.tsx  state global + persistensi localStorage
   data.ts    seed data & konstanta bisnis
